@@ -60,6 +60,10 @@ Este repositório funciona como meu portfólio técnico, reunindo documentaçõe
 - [PwnLab: Init — Web Pentest Lab](https://github.com/tiago4lexandre/PWNLAB)
   Exploração completa de aplicação web vulnerável até obtenção de root.
   `LFI · File Upload · Reverse Shell · PrivEsc`
+  
+- [Break Out The Cage — TryHackMe](https://github.com/tiago4lexandre/Break-Out-The-Cage)
+  Laboratório prático focado em enumeração de serviços, criptoanálise, esteganografia e escalonamento de privilégios em ambiente Linux, explorando falhas de configuração, scripts inseguros e tarefas automatizadas.
+  `Enumeration · Cryptography · Steganography · Post-Exploitation · Linux PrivEsc`
 
 ---
 
